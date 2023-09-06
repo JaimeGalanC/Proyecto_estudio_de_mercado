@@ -8,4 +8,7 @@ Posteriormente, realizaremos un test A/A/B ya que al equipo de diseño le gustar
 3. Se estudiaron las distintas etapas del embudo de marketing y los usuarios en cada uno de los eventos
 4. Se realizó un test A/A/B
 
-Este proyecto fue realizado usando jupyter notebook y python.
+Este proyecto fue realizado usando:
+- [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+- [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)]()
+
